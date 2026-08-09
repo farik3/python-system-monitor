@@ -16,8 +16,3 @@ while True:
     result = is_even(num)
     if result == "Выход":
         break
-
-
-
-        
-
